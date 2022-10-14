@@ -2,8 +2,8 @@ def isPalindrome(s):
 	return s == s[::-1]
 
 
-
-test_cases = int(test_cases)
+test_case = input()
+test_cases = int(test_case)
 
 
 
